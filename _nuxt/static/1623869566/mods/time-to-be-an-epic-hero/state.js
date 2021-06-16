@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1623869566",layout:"default",error:a,serverRendered:true,routePath:"\u002Fmods\u002Ftime-to-be-an-epic-hero",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"60a20484"}}}}(null));
