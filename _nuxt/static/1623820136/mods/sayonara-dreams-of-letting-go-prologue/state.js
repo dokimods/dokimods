@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1623820136",layout:"default",error:a,serverRendered:true,routePath:"\u002Fmods\u002Fsayonara-dreams-of-letting-go-prologue",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"b8b90e8f"}}}}(null));
