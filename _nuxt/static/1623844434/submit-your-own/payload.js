@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/submit-your-own", {data:[{}],fetch:{},mutations:void 0});
