@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1624104643",layout:"default",error:a,serverRendered:true,routePath:"\u002Fmods\u002Fexit-music-redux-demo",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"683f4859"}}}}(null));
