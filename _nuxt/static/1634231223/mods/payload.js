@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/mods", {data:[{}],fetch:{"data-v-debb2db8:0":{filters:{search:"",genre:[],status:[],length:[]}}},mutations:[]});
