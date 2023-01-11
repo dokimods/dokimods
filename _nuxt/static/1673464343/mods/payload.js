@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/mods", {data:[{}],fetch:{"data-v-41b94f59:0":{filters:{search:"",sort:0,genre:[],status:[],length:[]}}},mutations:[]});
