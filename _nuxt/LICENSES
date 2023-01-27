@@ -4,6 +4,12 @@
  * Released under the MIT License.
  */
 
+/*!
+ * vuex v3.6.2
+ * (c) 2021 Evan You
+ * @license MIT
+ */
+
 
 /*!
  * vue-client-only v0.0.0-semantic-release
@@ -19,7 +25,7 @@
 
 
 /*!
- * vuex v3.6.2
- * (c) 2021 Evan You
- * @license MIT
+ * Vue.js v2.7.14
+ * (c) 2014-2022 Evan You
+ * Released under the MIT License.
  */
