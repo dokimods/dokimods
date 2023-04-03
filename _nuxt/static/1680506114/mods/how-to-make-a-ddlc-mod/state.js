@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b,c){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1680506114",layout:"default",error:a,serverRendered:b,routePath:"\u002Fmods\u002Fhow-to-make-a-ddlc-mod",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"1b356d0c"}},colorMode:{preference:c,value:c,unknown:b,forced:false}}}(null,true,"system"));
