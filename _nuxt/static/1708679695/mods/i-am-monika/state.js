@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b,c){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1708679695",layout:"default",error:a,serverRendered:b,routePath:"\u002Fmods\u002Fi-am-monika",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"94ffe9de"}},colorMode:{preference:c,value:c,unknown:b,forced:false}}}(null,true,"system"));
