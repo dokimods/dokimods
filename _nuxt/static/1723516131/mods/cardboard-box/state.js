@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b,c){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1723516131",layout:"default",error:a,serverRendered:b,routePath:"\u002Fmods\u002Fcardboard-box",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"f2d4eaab"}},colorMode:{preference:c,value:c,unknown:b,forced:false}}}(null,true,"system"));
