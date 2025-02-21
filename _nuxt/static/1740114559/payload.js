@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/", {data:[{}],fetch:{"data-v-00685669:0":{totalMods:275},"data-v-24787fa1:0":{mods:[{authors:"Codex",title:"World of Mid",dir:"\u002Fmods\u002Fworld-of-mid"},{authors:"Lithium",title:"Without A World",dir:"\u002Fmods\u002Fwithout-a-world"},{authors:"keithpaoff",title:"The Outside",dir:"\u002Fmods\u002Fthe-outside"}],sorting:"latest"}},mutations:void 0});
